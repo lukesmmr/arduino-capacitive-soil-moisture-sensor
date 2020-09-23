@@ -5,7 +5,8 @@
  * and LED is green. 
  * 
  * Requires: capacitive soil moisture sensor v1.2, active buzzer, 
- * bread board, arduino uno (or similar), RGB LED, connector cables
+ * bread board, arduino uno (or similar), RGB LED, 3x 220 ohm resistors,
+ * connector cables
  */
 
 const int dry = 916;

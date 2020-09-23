@@ -8,4 +8,5 @@ Requirements:
 * Arduino uno (or similar)
 * RGB LED
 * Connector cables
+* 3x 220 ohm resistors
 
